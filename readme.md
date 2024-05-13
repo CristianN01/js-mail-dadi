@@ -9,7 +9,7 @@ Chiedi all’utente la sua email,
 controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
 
-Saltare a piè dispari [Bonus]
+Saltare a piè pari [Bonus]
 
 Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array
 
@@ -31,3 +31,9 @@ Mail
 - creiamo una lista dove inseriamo le email valide per accedere
 - creiamo un promp dove chiediamo di inserie la propria Emali 
 - stampiamo un messaggio dove vi e l'esito dell email(se puo o non puo accedere)
+<!-- ----------------------------------------------------------------- -->
+
+Saltare a piè pari
+creiamo un array vuoto
+creiamo un ciclo dove ci viene chiesto per 6 volte di inserire un numero
+per ogni numero pari, verra inserito nell' array
