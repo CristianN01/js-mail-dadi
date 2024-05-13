@@ -24,3 +24,10 @@ Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 Gioco dei dadi 
 - prima di tutto creiamo due variabili per far uscire un numero random a entrambi
 - mettiamo a confronto i due numeri usciti randomicamente per decreatare il vincitore
+
+<!-- ----------------------------------------------------------------- -->
+
+Mail
+- creiamo una lista dove inseriamo le email valide per accedere
+- creiamo un promp dove chiediamo di inserie la propria Emali 
+- stampiamo un messaggio dove vi e l'esito dell email(se puo o non puo accedere)
