@@ -21,3 +21,6 @@ Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
+Gioco dei dadi 
+- prima di tutto creiamo due variabili per far uscire un numero random a entrambi
+- mettiamo a confronto i due numeri usciti randomicamente per decreatare il vincitore
